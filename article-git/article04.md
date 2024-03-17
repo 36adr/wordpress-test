@@ -4,7 +4,8 @@ menu_order: 1
 post_status: publish
 taxonomy:
     category:
-        - category-slug-1/test
+        - category-slug-1
+          - test
         - category-slug-2
     post_tag:
         - tag-1
