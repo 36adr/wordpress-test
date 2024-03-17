@@ -7,6 +7,7 @@ taxonomy:
         - category-slug-1
           - test
         - category-slug-2
+          - essai
     post_tag:
         - tag-1
         - tag-2
