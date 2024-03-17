@@ -6,7 +6,7 @@ post_date:
 taxonomy:
     category:
         - category-slug-3
-          - essai
+        - CAT
     post_tag:
         - tag-1
         - tag-2
